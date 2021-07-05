@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e60f6c4-32cb-465b-b89a-b913a6a936b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/StartPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level/CheckPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Snake/NewTail.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/HumanGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Snake/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/UI/EatHumanPopup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/Human.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/UI/PopupAssets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LookAtTargetScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Save.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Snake/RaycastTarget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/Currency.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Snake/SnakeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IDamageable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Snake/SnakeTail.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IEat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Snake/VacuumTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../LineRider/Assets/Main/Scripts/Settings/Vibration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/EatGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Snake/SnakeMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Base/Vibration/VibrationEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/UI/CurrencyUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Curtains.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level/FinishScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorsScriptableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Base/Vibration/Vibration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../LineRider/Assets/Main/Scripts/GameInterface.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Help/RectTransformExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Snake/SnakeUltimate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/Crystal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TrapCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DragHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Snake/EatTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEvents.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Eat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/SnakeInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IDamageable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TrapCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currency.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/CurrencyUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LookAtTarget.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LookAtTargetScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VacuumTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/NewTile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Finish.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Human.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FinishScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/StartPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorsScriptableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies/Eat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies/Crystal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies/Human.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IEat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeColorTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Level/CheckPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/NewTail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies/UI/CurrencyUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies/Currency.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/HumanColorGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/EatGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/Human.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/HumanGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/VacuumTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Help/RectTransformExtention.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Curtains.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Base/Vibration/Vibration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/RaycastTarget.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/UI/EatHumanPopup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/UI/PopupInstancer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Currencies (Eat)/UI/PopupAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/EatTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/SnakeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/ColorChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/SnakeUltimate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/SnakeTail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Snake/SnakeMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sncM1TxBVg0pmAk1PzZJGsVJJv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="4648">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="4648" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e60f6c4-32cb-465b-b89a-b913a6a936b0" name="Default Changelist" comment="" />
+      <created>1621511744746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621511744746</updated>
+      <workItem from="1621511753028" duration="17987000" />
+      <workItem from="1621586711483" duration="55456000" />
+      <workItem from="1621777847840" duration="309000" />
+      <workItem from="1621785522940" duration="9733000" />
+      <workItem from="1621846929240" duration="29161000" />
+      <workItem from="1621967906623" duration="5738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+</project>
